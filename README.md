@@ -1,4 +1,4 @@
-# Day 2 — Stereo Camera Depth Analysis
+# Day 2 - Stereo Camera Depth Analysis
 
 **Series 1: Perception | Project 2 of 12**
 
