@@ -117,7 +117,7 @@ but the fundamental geometric constraint does not disappear.
 
 ________________________________________
 
-## Why This Matters to the Industry
+## Why This Matters to the Industry.
 
 Waymo uses LiDAR as its primary ranging sensor and cameras for classification.
 They do not rely on stereo geometry for depth beyond close range.
